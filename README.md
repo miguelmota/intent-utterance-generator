@@ -13,7 +13,7 @@ npm install intent-utterance-generator
 The generator expects an object with intent names as keys and phrases to expand as the values. It uses [intent-utterance-expander](https://github.com/miguelmota/intent-utterance-expander) to expand phrases.
 
 
-The result is a *Buffer* containing the generated expanded phrases which you can then copy over it to the Sample Utterances input field in the Alexa Skills Kit portal.
+The result is a [*Buffer*](https://nodejs.org/api/buffer.html) containing the generated expanded phrases which you can then copy over it to the Sample Utterances input field in the Alexa Skills Kit portal.
 
 
 ```javascript
