@@ -1,4 +1,4 @@
-# intent-utterance-expander
+# intent-utterance-generator
 
 > [Alexa Skills Kit Sample Utterances](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface) generator.
 
